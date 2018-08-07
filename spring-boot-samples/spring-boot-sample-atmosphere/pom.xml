@@ -8,7 +8,7 @@
 		<artifactId>spring-boot-samples</artifactId>
 		<version>${revision}</version>
 	</parent>
-	<artifactId>spring-boot-sample-atmosphere</artifactId>
+	<artifactId>spring-boot-sample-atmosphere-ROHIT</artifactId>
 	<name>Spring Boot Atmosphere Sample ---- ROHIT</name>
 	<description>Spring Boot Atmosphere Sample</description>
 	<properties>
