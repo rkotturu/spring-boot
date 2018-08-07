@@ -9,7 +9,7 @@
 		<version>${revision}</version>
 	</parent>
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
-	<name>Spring Boot Atmosphere Sample</name>
+	<name>Spring Boot Atmosphere Sample ---- ROHIT</name>
 	<description>Spring Boot Atmosphere Sample</description>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
